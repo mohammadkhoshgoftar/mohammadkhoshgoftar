@@ -1,34 +1,63 @@
 ### Hi there 👋
 
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
 
-Skills
-Languages and Frameworks
-PHP:
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
 
-Over 3 years of experience in PHP development.
-Proficient in the Laravel framework.
-JavaScript:
+section {
+    margin: 20px 0;
+}
 
-Design and implementation of web pages using HTML and CSS.
-Utilization of Bootstrap for responsive web design.
+.skill {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
 
+.project {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+</style>
+<header>
+    <h1>My Portfolio</h1>
+</header>
 
-Database
-  MySQL:
-    Design and management of databases with MySQL.
-  PostgreSQL:
-    Experience using PostgreSQL for large-scale projects.
-Web Design and Development
-  RESTful API:
-    Implementation and utilization of RESTful APIs for communication with other services.
-    
-Object-Oriented Programming
-  OOP (Object-Oriented Programming):
-    Design and implementation of object-oriented structures in PHP and JavaScript.
-  
-Design Patterns
-  Design Patterns:
-    Mastery of common design patterns such as MVC and Dependency Injection.
+<section id="skills">
+    <h2>Skills</h2>
+
+    <div class="skill">
+        <h3>PHP</h3>
+        <p>Over 3 years of experience in PHP development. Proficient in the Laravel framework.</p>
+        <img src="php-logo.png" alt="PHP Logo">
+    </div>
+
+    <!-- Repeat similar structure for other skills -->
+
+</section>
+
+<section id="projects">
+    <h2>Key Projects</h2>
+
+    <div class="project">
+        <h3>Project 1</h3>
+        <p>Brief description of the project and your role.</p>
+    </div>
+
+    <!-- Repeat similar structure for other projects -->
+
+</section>
 <!--
 **mohammadkhoshgoftar/mohammadkhoshgoftar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
