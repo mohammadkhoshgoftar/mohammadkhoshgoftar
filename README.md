@@ -3,7 +3,6 @@
 
 <h1>Skills</h1>
 <br />
-
 <ul>
   <li>html,css</li>
   <li>bootstrap</li>
