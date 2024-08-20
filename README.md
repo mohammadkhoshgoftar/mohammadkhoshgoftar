@@ -13,6 +13,10 @@
   <li>MySql</li>
   <li>PostgreSQL</li>
   <li>RESTful API</li>
+  <li>Redis</li>
+  <li>Elasticsearch</li>
+  <li>Docker</li>
+  <li>Linux</li>
 </ul>
  
 <p>I am a backend developer with over 4 years of experience in web development.</p>
