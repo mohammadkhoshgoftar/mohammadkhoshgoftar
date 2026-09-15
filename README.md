@@ -1,42 +1,139 @@
-### Hi there 👋
+# Hi there 👋 I'm Mohammad Khoshgoftar
 
+### Backend Developer | PHP & Laravel | Python & FastAPI | AI
 
-<h1>Skills</h1>
-<ul>
-  <li>html,css</li>
-  <li>bootstrap</li>
-  <li>JavaScript</li>
-  <li>Php</li>
-  <li>Laravel</li>
-  <li>OOP</li>
-  <li>Design Pattern</li>
-  <li>MySql</li>
-  <li>PostgreSQL</li>
-  <li>RESTful API</li>
-  <li>Redis</li>
-  <li>Elasticsearch</li>
-  <li>Docker</li>
-  <li>Linux</li>
-</ul>
- 
-<p>I am a backend developer with over 4 years of experience in web development.</p>
-<p>My expertise lies in PHP, and I am proficient in the Laravel framework. Over the years, I have been involved in various projects, tackling different responsibilities in the backend domain.</p>
+I'm a **Backend Developer** with 4+ years of experience building web applications, backend systems, and RESTful APIs.
 
-<hr />
+My primary expertise is **PHP and Laravel**, with a strong focus on clean architecture, maintainable code, scalable backend systems, and solid software engineering principles.
 
-<h2>Connect with me</h2>
-<p align="center"> <a href="https://www.github.com/mohammadkhoshgoftar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammad-khosh-goftar-2719a1266" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-<!--
-**mohammadkhoshgoftar/mohammadkhoshgoftar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm also expanding my work in **Python, FastAPI, and AI-powered backend systems**, with a particular interest in integrating AI into real-world applications and business workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Work With
+
+### Backend
+
+* PHP
+* Laravel
+* Python
+* FastAPI
+* RESTful APIs
+* OOP
+* SOLID Principles
+* Design Patterns
+* Modular Architecture
+* Domain-Driven Design (DDD)
+* Test-Driven Development (TDD)
+
+### Databases & Storage
+
+* MySQL
+* PostgreSQL
+* Redis
+* Elasticsearch
+
+### Infrastructure & Tools
+
+* Docker
+* Linux
+* Git
+* GitHub Actions
+* CI/CD
+* Redis Queue
+* Laravel Scheduler
+
+### APIs & Security
+
+* REST API Design
+* Authentication & Authorization
+* OAuth / Token-based Authentication
+* API Documentation
+* Swagger / OpenAPI
+
+### AI & Modern Backend
+
+* LLM Integrations
+* AI-powered APIs
+* AI Agents & Tool Calling
+* AI-assisted Business Workflows
+* Integrating AI into Backend Applications
+
+---
+
+## 💻 Engineering Principles
+
+I care about writing software that is:
+
+* **Maintainable** — easy to understand and evolve
+* **Scalable** — designed with growth in mind
+* **Testable** — backed by meaningful automated tests
+* **Modular** — organized around clear responsibilities
+* **Reliable** — built with performance and failure handling in mind
+
+I enjoy solving backend problems where **architecture, performance, and business requirements** intersect.
+
+---
+
+## 🚀 Current Focus
+
+```text
+PHP / Laravel
+      │
+      ├── Scalable Backend Systems
+      ├── Clean & Modular Architecture
+      ├── RESTful APIs
+      └── Software Engineering
+
+Python / FastAPI
+      │
+      ├── High-performance APIs
+      ├── Backend Services
+      └── AI Integrations
+
+AI
+      │
+      ├── LLM-powered Applications
+      ├── AI Agents
+      └── Business Automation
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,mysql,postgres,redis,docker,linux,git,github,githubactions" />
+
+</p>
+
+---
+
+## 📌 A Little About Me
+
+I started my career with web development and gradually moved deeper into backend engineering.
+
+Over the years, I've worked on different systems and business domains, which helped me develop an interest not only in writing code, but also in understanding **how software architecture and engineering decisions affect real-world products**.
+
+Today, my main focus is building robust backend systems with **Laravel and FastAPI**, while exploring how **AI can be integrated into backend applications to solve practical problems**.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/mohammadkhoshgoftar" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-khosh-goftar-2719a1266" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building reliable backend systems and exploring what AI can do next.</i>
+</p>
